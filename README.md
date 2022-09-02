@@ -32,6 +32,14 @@
   
 </div>
 
+
+<div align=center><h1>🍑 ME 🍑</h1></div>
+
+<div align=center> 
+  <a href="mailto:jhj6740@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <br>
+</div>
+
 [![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&bg_color=#ffffff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
