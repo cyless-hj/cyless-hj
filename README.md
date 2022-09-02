@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
   
-</div>
+</div><br><br>
 
 
 <div align=center><h1>🍑 ME 🍑</h1></div>
