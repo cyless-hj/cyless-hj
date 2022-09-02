@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20to%20HyunJin's%20Git%20profile&fontSize=50)
 
+[![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cyless-hj/cyless-hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
