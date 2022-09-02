@@ -19,9 +19,16 @@
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   <br>
 
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">  
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"> 
+  <img src="https://img.shields.io/badge/ApacheHadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=for-the-badge&logo=Apache Spark&logoColor=white"> 
+  <br>
+
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+  
 </div>
 
 [![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&bg_color=#ffffff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
