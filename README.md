@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20to%20HyunJin's%20Git%20profile&fontSize=50)
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center>
+<h1>📚 STACKS</h1>
 
-<div align=center> 
+
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -40,18 +41,20 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
   <br>
   
-</div><br><br>
+  <br><br>
 
 
-<div align=center><h1>🍑 ME 🍑</h1></div>
-
-<div align=center> 
-  <a href="mailto:jhj6740@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://hub.docker.com/u/jhjzmdk" target="_blank"><img src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-  <br>
-</div><br><br>
+  <h1>🍑 ME 🍑</h1>
 
 
-[![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&bg_color=#ffffff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="mailto:jhj6740@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://hub.docker.com/u/jhjzmdk" target="_blank"><img src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+    <br>
+  <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&bg_color=#ffffff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
