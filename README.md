@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Welcome%20to%20HyunJin's%20Git%20profile&fontSize=50)
 
 <div align=center>
-<h1>📚 STACKS</h1>
+<h1>📚 STACKS 📚</h1>
 
 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -50,10 +50,10 @@
     <a href="mailto:jhj6740@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://hub.docker.com/u/jhjzmdk" target="_blank"><img src="https://img.shields.io/badge/DockerHub-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
   </div>
-
-
-  [![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&bg_color=#ffffff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <br><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj&show_icons=true&bg_color=#ffffff&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
