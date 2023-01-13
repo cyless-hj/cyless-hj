@@ -53,8 +53,6 @@
   </div>
   <br><br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cyless-hj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   [![HyunJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyless-hj)](https://github.com/anuraghazra/github-readme-stats)
-  [![HyunJin's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cyless-hj)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
